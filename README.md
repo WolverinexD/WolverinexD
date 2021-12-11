@@ -6,7 +6,7 @@
 
 >  I am Vaibhav Chandra 😃. I am from Lucknow, Uttar Pradesh, India and I am currently a student 😉. I love to explore and discover new things.
 >  
-<img src="https://i.gifer.com/7MZY.webp" width="100%" height="100%" style='position:absolute;top:0;left:0;'>
+<img src="https://raw.githubusercontent.com/WolverinexD/WolverinexD/main/gifs/coder.gif" width="100%" height="100%" style='position:absolute;top:0;left:0;'>
 
 <h3>Stats ✌</h3>
 
