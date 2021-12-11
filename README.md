@@ -7,6 +7,7 @@
 >  I am Vaibhav Chandra 😃. I am from Lucknow, Uttar Pradesh, India and I am currently a student 😉. I love to explore and discover new things.
 
 <h3>Stats ✌</h3>
-![Wolverine's github stats](https://github-readme-stats.vercel.app/api?username=wolverinexd&hide=["issues"]&show_icons=true)
+
+![stats](https://github-readme-stats.vercel.app/api?username=wolverinexd&hide=["issues"]&show_icons=true)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wolverinexd.wolverinexd)
