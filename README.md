@@ -6,7 +6,8 @@
 
 
  
-<img src="https://raw.githubusercontent.com/WolverinexD/WolverinexD/main/gifs/coder.gif" width="30%" height="30%" style='position:absolute;top:0;left:0;float:right'> <div style="float:left">  I am Vaibhav Chandra 😃. I am from Lucknow, Uttar Pradesh, India and I am currently a student 😉. I love to explore and discover new things.</div>
+<img src="https://raw.githubusercontent.com/WolverinexD/WolverinexD/main/gifs/coder.gif" width="30%" height="30%" align="left"> I am Vaibhav Chandra 😃. I am from Lucknow, Uttar Pradesh, India and I am currently a student 😉. I love to explore and discover new things.
+</br>
 
 <h3>Stats ✌</h3>
 
