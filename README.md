@@ -11,4 +11,4 @@ I am Vaibhav Chandra 😃. I am from Lucknow, Uttar Pradesh, India and I am curr
 
 ![stats](https://github-readme-stats.vercel.app/api?username=wolverinexd&hide=["issues"]&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=wolverinexd.wolverinexd)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=wolverinexd.wolverinexd)
