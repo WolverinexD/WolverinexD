@@ -5,6 +5,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-x3wolverine.xd@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:x3wolverine.xd@gmail.com)](mailto:mailharshkhatri@gmail.com)
 
 >  I am Vaibhav Chandra 😃. I am from Lucknow, Uttar Pradesh, India and I am currently a student 😉. I love to explore and discover new things.
+>  
+<div style="padding-top:51.111%;position:relative;"><iframe src="https://gifer.com/embed/7MZY" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen>
 
 <h3>Stats ✌</h3>
 
